@@ -8,7 +8,7 @@
 </head>
 <body>
 <br>
-<div>국내 여행/축제 정보</div>
+<div>세계 여행/축제 정보</div>
 <br> 
 <div>
 <input type ="text">
